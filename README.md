@@ -412,3 +412,6 @@
 <img src="/readMeResource/game.png">
 </p>
 
+## 수상이력
+<h3>🥇 학원 자체평가 1위 </h3>
+
