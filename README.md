@@ -8,10 +8,12 @@
    <img src="/readMeResource/1113P.jpg">
  </div>
   
-# ✨ 프로젝트 소개 🎬[프로젝트 시연영상](https://youtu.be/tcVqruLrTtE)
+# ✨ 프로젝트 소개
   ```
   🧡💛 2022.10.07~ 2022.11.17 KH정보교육원 종로지원 할수있쪼 파이널프로젝트 💛🧡
   ```
+  ## 🎬[프로젝트 시연영상](https://youtu.be/tcVqruLrTtE) 📃[프로젝트 기획서](https://docs.google.com/presentation/d/1w3vuFRgA0OZo1t7efEjpQDb-Csigsk74/edit?usp=sharing&ouid=109580474542874399772&rtpof=true&sd=true)
+  
   ## 🚩 목차
   - [기획의도](#기획의도)
   - [역할분담](#역할분담)
