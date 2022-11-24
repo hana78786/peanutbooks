@@ -344,7 +344,7 @@
 ### 공지사항
 <hr>
 <p align=center>
-<img src="/readMeResource/user_notice.png">
+<img src="/readMeResource/notice.png">
 </p>
 
 ### 관리자-채팅상담
