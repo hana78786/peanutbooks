@@ -327,7 +327,7 @@
 ### 상담게시판
 <hr>
 <p align=center>
-<img src="">
+<img src="/readMeResource/qnauser.png">
 </p>
 
 ### 채팅상담
